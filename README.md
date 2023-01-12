@@ -1,2 +1,2 @@
-# jpmc-task-1-main
-First task in Python for JPMC Forage
+# JPMC Task 1
+Starter repo for task 1 of the JPMC software engineering program
